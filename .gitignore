@@ -1,0 +1,9 @@
+config/*
+!config/default.*
+npm-debug.log
+node_modules
+coverage
+logs
+test
+.idea
+package-lock.json
